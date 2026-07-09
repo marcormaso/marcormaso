@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Salve! Eu sou o Marco — seja bem-vindo(a) ao meu perfil! 👋​</h1>
 
-<!--
-**marcormaso/marcormaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+💻 Software Engineering Student • ☕ Java Developer • 🚀 Always Learning
+</h3>
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de Engenharia de Software e apaixonado por tecnologia.
+
+🚀 Atualmente estudando desenvolvimento Full Stack.
+
+🎯 Objetivo: me tornar um desenvolvedor cada vez melhor através de projetos reais.
+
+## 🚀 Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,mysql,git,github,vscode,idea&perline=5"/>
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=marcormaso&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=marcormaso&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marcormaso/marcormaso/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+
+
+
+
+
+
+
