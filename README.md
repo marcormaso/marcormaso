@@ -27,15 +27,3 @@ Sou estudante de Engenharia de Software e apaixonado por tecnologia.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=marcormaso&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/marcormaso/marcormaso/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</p>
-
-
-
-
-
-
-
-
