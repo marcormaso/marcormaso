@@ -2,17 +2,43 @@
 
 <h3 align="center">
 💻 Software Engineering Student • ☕ Java Developer • 🚀 Always Learning
+<br><br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 </h3>
 
 ## 👨‍💻 Sobre mim
+<div align="center">
+  <table>
+<tr>
+<td width="50">
 
-Sou estudante de Engenharia de Software e apaixonado por tecnologia.
+<img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="120">
 
-🚀 Atualmente estudando desenvolvimento Full Stack.
+</td>
 
-🎯 Objetivo: me tornar um desenvolvedor cada vez melhor através de projetos reais.
+<td>
+
+• Sou estudante de Engenharia de Software e apaixonado por tecnologia.
+
+
+
+• 🚀 Atualmente estudando desenvolvimento Full Stack.
+
+
+
+• 🎯 Objetivo: me tornar um desenvolvedor cada vez melhor através de projetos reais.
+
+</td>
+</tr>
+</table>
+</div>
+
+
+
+
 
 ## 🚀 Tecnologias
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,mysql,git,github,vscode,idea&perline=5"/>
